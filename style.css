@@ -1,0 +1,27 @@
+
+img{
+
+width:48px;
+height:48px;
+
+}
+  
+   body {
+       background-color: aqua;
+       border: 10px solid red;
+       height: 100vh;
+       justify-content: center;
+       align-items: center;
+       text-align: center;
+       margin: 100px;
+       color: black;
+       font-size: 40px;
+
+
+   }
+   section{
+background-color: blueviolet;
+
+
+
+   }
